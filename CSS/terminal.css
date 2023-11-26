@@ -1,0 +1,150 @@
+/**
+ * LightCSS Themes
+ * A collection of lightweight CSS themes for your website.
+ * Github: https://www.github.com/lewisevans2007/LightCSS_Themes
+ * By: Lewis Evans
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+
+h2 {
+    font-size: 1.8em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1em;
+    color: rgb(191, 191, 191);
+}
+
+h5 {
+    font-size: 1em;
+    font-weight: normal;
+    color: rgb(191, 191, 191);
+}
+
+h6 {
+    font-size: 1em;
+    font-weight: lighter;
+    color: rgb(191, 191, 191);
+}
+
+p {
+    font-size: 1em;
+}
+
+a {
+    font-size: 1em;
+    color: rgb(62, 72, 201);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(62, 72, 201);
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+li {
+    font-size: 1em;
+}
+
+button {
+    font-size: 1em;
+    color: #ffffff;
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+button:hover {
+    background-color: #d7d7d7;
+    color: #2f2f2f;
+}
+
+input{
+    font-size: 1em;
+    color: #ffffff;
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+textarea{
+    font-size: 1em;
+    color: #ffffff;
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+select{
+    font-size: 1em;
+    color: #ffffff;
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+label{
+    font-size: 1em;
+    color: #ffffff;
+}
+
+code {
+    font-size: 1em;
+    color: #929292;
+}
+
+quote {
+    display: block;
+    font-size: 1.2em;
+    color: #8e8e8e;
+    font-family: Georgia, serif;
+    font-style: italic;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background-color: #b9b9b9;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.center {
+    text-align: center;
+}
+

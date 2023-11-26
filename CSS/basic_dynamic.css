@@ -1,0 +1,238 @@
+/**
+ * LightCSS Themes
+ * A collection of lightweight CSS themes for your website.
+ * Github: https://www.github.com/lewisevans2007/LightCSS_Themes
+ * By: Lewis Evans
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #000;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #000;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #4e4e4e;
+}
+
+h4 {
+    font-size: 1em;
+    color: #4e4e4e;
+}
+
+h5 {
+    font-size: 1em;
+    color: #686868;
+    font-weight: normal;
+}
+
+h6 {
+    font-size: 1em;
+    color: #4e4e4e;
+    font-weight: lighter;
+}
+
+p {
+    font-size: 1em;
+    color: #000000;
+}
+
+a {
+    font-size: 1em;
+    color: rgb(62, 72, 201);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(62, 72, 201);
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+li {
+    font-size: 1em;
+    color: #000000;
+}
+
+button {
+    font-size: 1em;
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+button:hover {
+    background-color: #d7d7d7;
+    color: #2f2f2f;
+}
+
+input{
+    font-size: 1em;
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+textarea{
+    font-size: 1em;
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+select{
+    font-size: 1em;
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+label{
+    font-size: 1em;
+    color: #000000;
+}
+
+code {
+    font-size: 1em;
+    color: #464646;
+}
+
+quote {
+    display: block;
+    font-size: 1.2em;
+    color: #4e4e4e;
+    font-family: Georgia, serif;
+    font-style: italic;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background-color: #b9b9b9;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.center {
+    text-align: center;
+}
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1a1a1a;
+        color: #ffffff;
+    }
+
+    h1 {
+        color: #ffffff;
+    }
+
+    h2 {
+        color: #ffffff;
+    }
+
+    h3 {
+        color: #ffffff;
+    }
+
+    h4 {
+        color: #ffffff;
+    }
+
+    h5 {
+        color: #ffffff;
+    }
+
+    h6 {
+        color: #ffffff;
+    }
+
+    p {
+        color: #ffffff;
+    }
+
+    a {
+        color: #ffffff;
+    }
+
+    li {
+        color: #ffffff;
+    }
+
+    button {
+        color: #ffffff;
+        background-color: #1a1a1a;
+        border: 1px solid #ffffff;
+    }
+
+    button:hover {
+        background-color: #1a1a1a;
+        color: #ababab;
+    }
+
+    input{
+        color: #ffffff;
+        background-color: #1a1a1a;
+        border: 1px solid #ffffff;
+    }
+
+    textarea{
+        color: #ffffff;
+        background-color: #1a1a1a;
+        border: 1px solid #ffffff;
+    }
+
+    select{
+        color: #ffffff;
+        background-color: #1a1a1a;
+        border: 1px solid #ffffff;
+    }
+
+    label{
+        color: #ffffff;
+    }
+
+    code {
+        color: #ffffff;
+    }
+
+    quote {
+        color: #ffffff;
+    }
+
+    hr {
+        background-color: #ffffff;
+    }
+}
