@@ -12,4 +12,4 @@ The files are under 5kb each, and are designed to be used as a starting point fo
 
 ## Licence
 
-This software is free under the CC-0 licence. You can modify and distribute it as you like, with no restrictions. 
+This software is free under the CC-0 licence. You can modify and distribute it as you like, with no restrictions. See [This page](https://creativecommons.org/publicdomain/zero/1.0/) for more information.
