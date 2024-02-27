@@ -2,7 +2,7 @@
 
 A collection of lightweight CSS themes for your website.
 
-The files are under 5kb each, and are designed to be used as a starting point for your own custom themes.
+The files are under 5kb each, and are designed to be used as a starting point for your own custom themes for your website.
 
 ## Themes
 
