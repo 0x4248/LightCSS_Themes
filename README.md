@@ -12,4 +12,4 @@ The files are under 5kb each, and are designed to be used as a starting point fo
 
 ## Licence
 
-This is free software to use and modify as you wish.
+This software is free under the CC-0 licence. You can modify and distribute it as you like, with no restrictions. 
